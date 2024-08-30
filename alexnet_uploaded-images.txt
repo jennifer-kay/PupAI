@@ -1,0 +1,14 @@
+
+
+*** Results Summary for CNN Model Architecture ALEXNET ***
+Number of Images    :   9
+Number of Dog Images:   0
+Number of Not-a-Dog Images:   9
+ 
+pct_correct_dogs    : 0.00
+pct_correct_breed   : 0.00
+pct_correct_notdogs : 100.00
+
+Total Elapsed Runtime: 6.514757394790649 in seconds.
+
+Total Elapsed Runtime: 0:0:6
